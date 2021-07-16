@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.can3x.fieldorder.services
 
+import com.github.can3x.fieldorder.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

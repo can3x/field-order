@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.can3x.fieldorder
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
